@@ -1,0 +1,23 @@
+EXERCICE 1.
+
+2.
+git-init(1)
+           Create an empty Git repository or reinitialize an existing one.
+Dossiers créés : branches, hooks, info, logs, objects, refs
+
+4.
+ git-status(1)
+           Show the working tree status.
+
+5.
+	nouveau fichier: git.txt
+
+7. Statut modifié
+
+8. Show commit log
+	Montre le fichier.
+
+9. Montre ce qui a été modifié depuis.
+
+
+
